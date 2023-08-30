@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.hover:hover{
+    background: linear-gradient(180deg, hsl(252, 100%, 67%) 0%, hsl(241, 81%, 54%) 100%);
+}
